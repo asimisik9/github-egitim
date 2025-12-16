@@ -1,0 +1,1 @@
+"Git Egitimi ilk satirlar"
