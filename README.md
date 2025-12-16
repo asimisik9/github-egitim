@@ -1,3 +1,3 @@
 "Git Egitimi ilk satirlar"
-"Login feature eklendi"
-Main bracnh degisikligi
+"Login feature eklendi"=
+feature-login bracnh degisikligi
